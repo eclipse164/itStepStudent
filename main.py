@@ -1,10 +1,3 @@
-print("Hello World")
-print("fghg")
-a = 5
-print(a+4)
-print("edited by another user")
-
-
 
 def calc(num1, num2, operation):
     if operation == "+":
